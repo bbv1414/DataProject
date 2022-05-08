@@ -1,1 +1,2 @@
 print("Init")
+print("test")
